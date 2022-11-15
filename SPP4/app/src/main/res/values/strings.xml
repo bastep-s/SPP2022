@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SSP4</string>
+    <string name="countBox">Введите число полётов</string>
+    <string name="yearBox">Введите возраст</string>
+    <string name="phoneBox">Введите номер</string>
+    <string name="saveButton">Сохранить число полётов</string>
+    <string name="getButton">Получить данные</string>
+    <string name="rankBox">Введите ранг</string>
+    <string name="nameBox">Введите имя</string>
+    <string name="backView">Назад</string>
+    <string name="CanselView">Отмена</string>
+</resources>

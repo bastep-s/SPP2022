@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Космодром "Байконур"</string>
+    <string name="java">быстро учится</string>
+    <string name="kotlin">умело летает</string>
+    <string name="textview">Выберите прилагательное: </string>
+    <string name="textview2">Выберите существительное: </string>
+    <string name="textview3">Выберите наречие: </string>
+    <string name="textview4">Вывод построенного предложения:  </string>
+    <string name="button">Построить предложение</string>>
+    <string-array name="epithets">
+        <item name = "epithets1">Легендарный(ая)</item>
+        <item name = "epithets2">Известный(ая)</item>
+        <item name = "epithets3">Малоизвестный (ая)</item>
+        <item name = "epithets4">Молодой(ая)</item>
+        <item name = "epithets5">Смелый(ая)</item>
+    </string-array>>
+    <string-array name="nouns">
+        <item name = "noun1">космонавт</item>
+        <item name = "noun2">космонавтка</item>
+    </string-array>>
+</resources>
