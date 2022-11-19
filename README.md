@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/bastep-s/SPP2022">
-    <img src="SSP3/img/1.png" alt="Logo" width="100" height="100">
+    <img src="SPP3/img/1.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Android Studio Project</h3>
