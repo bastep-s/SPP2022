@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/bastep-s/SPP2022">
-    <img src="https://tuner-rostov.ru/upload/medialibrary/3e7/3e7edcd378b26f722fbfdb3d74ee5344.png" alt="Logo" width="80" height="80">
+    <img src="SSP3/img/1.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Android Studio Project</h3>
@@ -20,5 +20,5 @@
 
 ## Authors
 
-* **Tagashev Ivan** - *UlSTU* - [Tagashev Ivan](https://github.com/bastep-s) - *Built *
-* **Egorov Ivan** - *UlSTU* - [Egorov Ivan](https://github.com/Doomaykaka) - *Built*
+* **Tagashev Ivan** - *UlSTU* - [Tagashev Ivan](https://github.com/bastep-s) - *Build*
+* **Egorov Ivan** - *UlSTU* - [Egorov Ivan](https://github.com/Doomaykaka) - *Build*
